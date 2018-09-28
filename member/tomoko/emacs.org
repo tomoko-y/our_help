@@ -1,4 +1,14 @@
+#+OPTIONS: ^:{}
 #+STARTUP: indent nolineimages
+#+TITLE: A contents of memo
+#+AUTHOR: 山田　智子
+#+EMAIL:     (concat "")
+#+LANGUAGE:  jp
+#+OPTIONS:   H:4 toc:t num:2
+
+#+links: file file+sys:/Users/yamadatomoko/my_help/docs/tomoko/
+#+SETUPFILE: /Users/yamadatomoko/org-html-themes/setup/theme-readtheorg.setup
+
 * head
 - Emacs key bind
 - 
