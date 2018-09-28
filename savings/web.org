@@ -9,14 +9,32 @@
 #+links: file file+sys:/Users/yamadatomoko/my_help/docs/tomoko/
 #+SETUPFILE: /Users/yamadatomoko/org-html-themes/setup/theme-readtheorg.setup
 
-* 内容表示
-
+* emacs
 |---------------------------+--------|
 | 内容                      | 難易度 |
 |---------------------------+--------|
 | emacsのcommand([[file:~/our_help/member/tomoko/emacs.org][emacs.org]]) | ^^^    |
 |---------------------------+--------|
-| tmp([[~/our_help/member/tomoko/aaa.org][aaa.org]]               | ^^^^^  |
+| tmp([[~/our_help/member/tomoko/aaa.org][aaa.org]])              | ^^^^^  |
 |---------------------------+--------|
 | tmp([[~/my_help/docs/tomoko/new_memo.org][new_memo.org]])         | ^      |
 |---------------------------+--------|
+
+* git
+|-------------------------+--------|
+| 内容                    | 難易度 |
+|-------------------------+--------|
+| repositorynの作成方法() | ^      |
+|-------------------------+--------|
+| tmp()                   | ^^^    |
+|-------------------------+--------|
+
+* ruby
+|-------------------------+--------|
+| 内容                    | 難易度 |
+|-------------------------+--------|
+| rubyでcommandを自動化() | ^^     |
+|-------------------------+--------|
+| tmp()                   |        |
+|-------------------------+--------|
+
